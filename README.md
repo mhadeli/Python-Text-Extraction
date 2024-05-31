@@ -9,6 +9,8 @@ Before running the script, ensure you have installed the PyPDF2 library. You can
 ```bash
 pip install PyPDF2
 
+```
+
 ## Usage
 Set the directory where the PDF files are located by modifying the pdf_directory variable in the script.
 Run the script. It will loop through each PDF file in the specified directory, extract the text from each page, and save it as a separate text file in the same directory.
